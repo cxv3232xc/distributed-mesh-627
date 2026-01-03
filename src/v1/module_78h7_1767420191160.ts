@@ -1,0 +1,1 @@
+const util_78h7 = (d: any) => d;
